@@ -1,9 +1,210 @@
-<mxfile host="app.diagrams.net" modified="2023-11-30T08:53:17.296Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" version="22.1.5" etag="3fo4hB3_aWpxbm6U19I-" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-30T08:54:04.099Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="VOHizrodWoNVxdXbW8vA" version="22.1.5" type="github">
   <diagram name="第 1 页" id="iCzHmu2789MM5vqmsooM">
-    <mxGraphModel>
+    <mxGraphModel dx="1774" dy="-345" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="bhxpmUHsTkzC5NRh30UG-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="1148.25" y="2216" width="351.75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bhxpmUHsTkzC5NRh30UG-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="781" y="1987.96" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bhxpmUHsTkzC5NRh30UG-3" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="1148.25" y="2113" width="351.75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bhxpmUHsTkzC5NRh30UG-4" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="1148.25" y="1720" width="351.75" height="60.05" as="geometry" />
+        </mxCell>
+        <mxCell id="bhxpmUHsTkzC5NRh30UG-5" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="780" y="2113" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bhxpmUHsTkzC5NRh30UG-6" value="知识融合" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1525.5" y="1852.97" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bhxpmUHsTkzC5NRh30UG-7" value="意图识别" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1525.5" y="2116.9700000000003" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bhxpmUHsTkzC5NRh30UG-8" value="知识检索" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1525.5" y="1993.97" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bhxpmUHsTkzC5NRh30UG-9" value="法条查询" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1159.5" y="2121" width="60" height="21.94" as="geometry" />
+        </mxCell>
+        <mxCell id="bhxpmUHsTkzC5NRh30UG-10" value="法律咨询" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1294" y="2121" width="60" height="21.94" as="geometry" />
+        </mxCell>
+        <mxCell id="bhxpmUHsTkzC5NRh30UG-11" value="日常问答" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1429" y="2121" width="60" height="21.94" as="geometry" />
+        </mxCell>
+        <mxCell id="bhxpmUHsTkzC5NRh30UG-12" value="知识库" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=14;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1195.75" y="2008.94" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bhxpmUHsTkzC5NRh30UG-13" value="大模型" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=14;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1315.75" y="2008.94" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bhxpmUHsTkzC5NRh30UG-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1148.25" y="1954.11" width="231.75" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bhxpmUHsTkzC5NRh30UG-15" value="知识库" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=17;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1236" y="1956.96" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bhxpmUHsTkzC5NRh30UG-16" value="宪法" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1165.75" y="1993.1100000000001" width="60" height="21.94" as="geometry" />
+        </mxCell>
+        <mxCell id="bhxpmUHsTkzC5NRh30UG-17" value="法律" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1165.75" y="2021.17" width="60" height="21.94" as="geometry" />
+        </mxCell>
+        <mxCell id="bhxpmUHsTkzC5NRh30UG-18" value="司法解释" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1236" y="1993.1100000000001" width="60" height="21.94" as="geometry" />
+        </mxCell>
+        <mxCell id="bhxpmUHsTkzC5NRh30UG-19" value="监察法规" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1236" y="2021.17" width="60" height="21.94" as="geometry" />
+        </mxCell>
+        <mxCell id="bhxpmUHsTkzC5NRh30UG-20" value="行政法规" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1305.75" y="1993.1100000000001" width="60" height="21.94" as="geometry" />
+        </mxCell>
+        <mxCell id="bhxpmUHsTkzC5NRh30UG-21" value="地方法规" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1305.75" y="2021.17" width="60" height="21.94" as="geometry" />
+        </mxCell>
+        <mxCell id="bhxpmUHsTkzC5NRh30UG-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.515;exitY=0.016;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.783;entryY=0.993;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bhxpmUHsTkzC5NRh30UG-3" target="bhxpmUHsTkzC5NRh30UG-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1321.75" y="2116.9700000000003" as="sourcePoint" />
+            <mxPoint x="1325.75" y="2052.9700000000003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhxpmUHsTkzC5NRh30UG-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1460" y="2113" as="sourcePoint" />
+            <mxPoint x="1460" y="1902" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhxpmUHsTkzC5NRh30UG-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="1833" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bhxpmUHsTkzC5NRh30UG-25" value="大模型" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=17;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1384.25" y="1834.0000000000002" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bhxpmUHsTkzC5NRh30UG-26" value="问题回复" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1525.5" y="1735.05" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bhxpmUHsTkzC5NRh30UG-27" value="文档切分" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="740" y="2073" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bhxpmUHsTkzC5NRh30UG-28" value="知识梳理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="740" y="1948.1100000000001" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bhxpmUHsTkzC5NRh30UG-29" value="规则匹配" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="790" y="2121" width="60" height="21.94" as="geometry" />
+        </mxCell>
+        <mxCell id="bhxpmUHsTkzC5NRh30UG-30" value="模型分段" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="881" y="2121" width="60" height="21.94" as="geometry" />
+        </mxCell>
+        <mxCell id="bhxpmUHsTkzC5NRh30UG-31" value="手动维护" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="972" y="2121" width="60" height="21.94" as="geometry" />
+        </mxCell>
+        <mxCell id="bhxpmUHsTkzC5NRh30UG-32" value="文本向量化" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1997.07" width="80" height="21.94" as="geometry" />
+        </mxCell>
+        <mxCell id="bhxpmUHsTkzC5NRh30UG-33" value="字段筛选" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="957.5" y="1998.99" width="60" height="21.94" as="geometry" />
+        </mxCell>
+        <mxCell id="bhxpmUHsTkzC5NRh30UG-34" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="910" y="2203" as="sourcePoint" />
+            <mxPoint x="910" y="2153" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhxpmUHsTkzC5NRh30UG-35" value="知识更新" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1041" y="2030.9900000000002" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bhxpmUHsTkzC5NRh30UG-36" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.008;entryY=0.549;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bhxpmUHsTkzC5NRh30UG-2" target="bhxpmUHsTkzC5NRh30UG-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1050" y="1993" as="sourcePoint" />
+            <mxPoint x="1148.25" y="2001.07" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhxpmUHsTkzC5NRh30UG-37" value="定金支付标准的法律规定？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;flipH=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1238.88" y="2223" width="176.12" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bhxpmUHsTkzC5NRh30UG-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.055;exitY=-0.005;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.515;entryY=1.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bhxpmUHsTkzC5NRh30UG-24" target="bhxpmUHsTkzC5NRh30UG-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1334" y="1833" as="sourcePoint" />
+            <mxPoint x="1333.53" y="1780.05" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhxpmUHsTkzC5NRh30UG-39" value="根据《民法典》第五百八十六条：当事人可以约定一方向对方给付定金作为债权的担保。定金合同自实际交付定金时成立。" style="text;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1169" y="1720" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bhxpmUHsTkzC5NRh30UG-40" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1328.125" y="2209.5" as="sourcePoint" />
+            <mxPoint x="1328.125" y="2156" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhxpmUHsTkzC5NRh30UG-41" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.12;entryY=0.994;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="bhxpmUHsTkzC5NRh30UG-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1190" y="1953" as="sourcePoint" />
+            <mxPoint x="1200" y="1783" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhxpmUHsTkzC5NRh30UG-42" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.051;entryY=1.006;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.782;exitY=0.009;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="bhxpmUHsTkzC5NRh30UG-14" target="bhxpmUHsTkzC5NRh30UG-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1330" y="1953" as="sourcePoint" />
+            <mxPoint x="1336" y="1904" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhxpmUHsTkzC5NRh30UG-43" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1459.1100000000001" y="1834.02" as="sourcePoint" />
+            <mxPoint x="1458.6399999999999" y="1781.07" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhxpmUHsTkzC5NRh30UG-44" value="问题输入" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1521.25" y="2222" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bhxpmUHsTkzC5NRh30UG-45" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.176;entryY=1.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1190" y="2113" as="sourcePoint" />
+            <mxPoint x="1190.0379999999998" y="2054.709999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhxpmUHsTkzC5NRh30UG-46" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="909.41" y="2102.99" as="sourcePoint" />
+            <mxPoint x="909.41" y="2032.99" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhxpmUHsTkzC5NRh30UG-47" value="星火" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1335" y="1867.97" width="60" height="21.94" as="geometry" />
+        </mxCell>
+        <mxCell id="bhxpmUHsTkzC5NRh30UG-48" value="微调法律" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1422.25" y="1867.97" width="60" height="21.94" as="geometry" />
+        </mxCell>
+        <mxCell id="bhxpmUHsTkzC5NRh30UG-49" value="业务流程" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="790" y="1680" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bhxpmUHsTkzC5NRh30UG-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1324.125" y="2260" as="sourcePoint" />
+            <mxPoint x="1324.125" y="2260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhxpmUHsTkzC5NRh30UG-51" value="&lt;ul style=&quot;font-size: 14px;&quot;&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;法条一&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;法条二&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;...&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1305.75" y="1888.11" width="94.25" height="65.89" as="geometry" />
+        </mxCell>
+        <mxCell id="bhxpmUHsTkzC5NRh30UG-52" value="&lt;ul style=&quot;font-size: 14px;&quot;&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;法条一&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;法条二&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;...&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1165.75" y="1822.97" width="84.25" height="67.03" as="geometry" />
+        </mxCell>
+        <mxCell id="bhxpmUHsTkzC5NRh30UG-53" value="文档" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="741" y="2176" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bhxpmUHsTkzC5NRh30UG-54" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="781" y="2216" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bhxpmUHsTkzC5NRh30UG-55" value="&lt;ol style=&quot;font-size: 14px;&quot;&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;中华人民共和国宪法(1954)&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;中华人民共和国劳动法&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="792" y="2206" width="249" height="64" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

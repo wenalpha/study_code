@@ -1,9 +1,369 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T06:04:00.098Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" version="22.1.5" etag="VNDIWel8vW51WZCiMyvx" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-01T06:19:57.011Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="FD_4WplW25zCOypvcFqK" version="22.1.5" type="github">
   <diagram name="第 1 页" id="nlTGJhFRmkUIfn_ejTpT">
-    <mxGraphModel>
+    <mxGraphModel dx="1179" dy="-1659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="886" y="3559.2499999999995" width="35.75" height="35.75" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="881.0699999999999" y="3563.0299999999997" width="35.75" height="35.75" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=left;" vertex="1" parent="1">
+          <mxGeometry x="580" y="3330" width="260" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-4" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;b&gt;输入:&lt;/b&gt;&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;借款人从银行贷款后再转贷给第三人，其合同的法律效力及法律后果如何认定？&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="602" y="3334" width="230" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=left;" vertex="1" parent="1">
+          <mxGeometry x="580" y="3452" width="260" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-6" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;微调法律大模型&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="644.5" y="3462" width="121" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="600" y="3498" width="226" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-8" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;关键词生成：&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="616" y="3508" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="876" y="3577.333333333334" as="targetPoint" />
+            <mxPoint x="816" y="3577.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=left;" vertex="1" parent="1">
+          <mxGeometry x="616" y="3538" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-11" value="银行借贷" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="634.25" y="3550.03" width="60" height="21.94" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-12" value="法律效力" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="706" y="3549.03" width="60" height="21.94" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-13" value="民间借贷" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="644.5" y="3578" width="60" height="21.94" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-14" value="经济纠纷" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="726" y="3579" width="60" height="21.94" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="597" y="3658" width="226" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-16" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;法条推荐：&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="613" y="3668" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-17" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=left;" vertex="1" parent="1">
+          <mxGeometry x="613" y="3698" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-18" value="民事法律行为无效、被撤销或者确定不发生效力后，行为人..." style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="616.25" y="3708" width="189.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-19" value="具有下列情形之一的，人民法院应当认定民间借贷合同无效..." style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="616" y="3748" width="190" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-20" value="商业贷款" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="678" y="3602.94" width="60" height="21.94" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-21" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="3530" width="260" height="247" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-22" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;知识库&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1124.75" y="3525" width="56.5" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-23" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=left;fillColor=#efefef;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1037" y="3552" width="226" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-24" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;color: rgb(18, 18, 18); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;《中华人民共和国民法典》第一百五十七条...&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=left;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="3565" width="197.5" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-25" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="876.25" y="3567.12" width="35.75" height="35.75" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-26" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XGfmZJ_rFbC4bp7J-RZ3-3" target="XGfmZJ_rFbC4bp7J-RZ3-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="846" y="3292" as="sourcePoint" />
+            <mxPoint x="896" y="3502" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="876" y="3585.703333333334" as="targetPoint" />
+            <mxPoint x="816" y="3586.37" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="876" y="3594.3633333333337" as="targetPoint" />
+            <mxPoint x="816" y="3595.0299999999997" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-29" value="" style="shape=cross;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="884.1199999999999" y="3575" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-30" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;《中华人民共和国商业银行法》第三十七条...&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=left;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="3609.97" width="196.5" height="42.03" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-31" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.002;entryY=0.844;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="XGfmZJ_rFbC4bp7J-RZ3-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="823" y="3738" as="sourcePoint" />
+            <mxPoint x="1016" y="3738" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-32" value="向量匹配" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="923.1199999999999" y="3550.03" width="74.25" height="25.12" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-33" value="向量匹配" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="871.75" y="3710.44" width="74.25" height="25.12" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-34" value="模糊搜索" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="871.75" y="3741" width="74.25" height="25.12" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-35" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=left;fillColor=#efefef;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1037" y="3667" width="226" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-36" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;以转贷牟利为目的，套取金融机...&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=left;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="3733" width="200" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-37" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;（一）套取金融机构贷款转贷的...&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=left;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="3703" width="200" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-38" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="916" y="3580" as="sourcePoint" />
+            <mxPoint x="1019" y="3580.4" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-39" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.484;entryY=0;entryDx=0;entryDy=0;exitX=0.483;exitY=0.986;exitDx=0;exitDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="XGfmZJ_rFbC4bp7J-RZ3-3" target="XGfmZJ_rFbC4bp7J-RZ3-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="687" y="3432.62" as="sourcePoint" />
+            <mxPoint x="883" y="3431.62" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-40" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="838" y="3377.5" as="sourcePoint" />
+            <mxPoint x="1311.5" y="3655" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1311.5" y="3378" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-41" value="问题转换" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="651.75" y="3825" width="101.75" height="42.12" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-42" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1369" y="3530" width="260" height="247" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-43" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;星火大模型&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1456.37" y="3532.12" width="85.25" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-44" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=left;fillColor=#efefef;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1389" y="3565" width="226" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-45" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;color: rgb(18, 18, 18); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; font-size: 13px; display: inline !important;&quot;&gt;借款人从银行贷款后转贷转贷给第三人的，其借款合同是无效的。这种行为属于套取金融机构贷款转贷，违反了最高人民法院关于审理民间借贷案件适用法律若干问题的规定第十三条的规定；该合同被认定为无效后，借款人及第三人因无效合同取得的财产，应当予以返还，借款人作为有过错的一方应当赔偿银行及第三...&lt;/span&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;align=left;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1393.62" y="3582" width="218.75" height="163" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-46" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;民事法律行为无效、被撤销或确...&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=left;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="3673" width="200" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-47" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XGfmZJ_rFbC4bp7J-RZ3-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1283.5" y="3653" as="sourcePoint" />
+            <mxPoint x="1363.5" y="3653" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-48" value="内容检索" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1097.37" y="3825" width="101.75" height="42.12" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-49" value="总结回复" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1456.5" y="3825" width="101.75" height="42.12" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-50" value="Prompt构建" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1286.5" y="3660" width="77" height="25.12" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-51" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="872" y="4199.25" width="35.75" height="35.75" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-52" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="867.0699999999999" y="4203.03" width="35.75" height="35.75" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-53" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=left;" vertex="1" parent="1">
+          <mxGeometry x="566" y="3970" width="260" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-54" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;输入:&lt;/b&gt;&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial; font-size: 16px;&quot;&gt;借款人从银行贷款后再转贷给第三人，其合同的法律效力及法律后果如何认定？&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="588" y="3974" width="230" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-55" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=left;" vertex="1" parent="1">
+          <mxGeometry x="566" y="4092" width="260" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-56" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;微调法律大模型&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="630.5" y="4102" width="139.5" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-57" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="586" y="4138" width="226" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-58" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;关键词生成：&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="602" y="4145" width="98" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="862" y="4217.333333333334" as="targetPoint" />
+            <mxPoint x="802" y="4217.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-60" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=left;" vertex="1" parent="1">
+          <mxGeometry x="602" y="4178" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-61" value="银行借贷" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="620.25" y="4187.03" width="69.75" height="21.94" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-62" value="法律效力" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="704" y="4186.03" width="68" height="21.94" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-63" value="民间借贷" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="630.5" y="4215" width="69.5" height="21.94" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-64" value="经济纠纷" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="712" y="4216" width="68" height="21.94" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-65" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="583" y="4298" width="226" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-66" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;法条推荐：&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="599" y="4296" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-67" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=left;" vertex="1" parent="1">
+          <mxGeometry x="599" y="4325" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-68" value="民事法律行为无效、被撤销或者确定不发生效力后，行为..." style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=14;align=left;" vertex="1" parent="1">
+          <mxGeometry x="602.25" y="4335" width="189.75" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-69" value="具有下列情形之一的，人民法院应当认定民间借贷合同无..." style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=14;align=left;" vertex="1" parent="1">
+          <mxGeometry x="602" y="4383" width="190" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-70" value="商业贷款" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="664" y="4242.94" width="66" height="21.94" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-71" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1006" y="4170" width="260" height="247" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-72" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;知识库&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1110.75" y="4165" width="56.5" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-73" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=left;fillColor=#efefef;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1023" y="4193" width="226" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-74" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;color: rgb(18, 18, 18); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; font-size: 16px; display: inline !important;&quot;&gt;《中华人民共和国民法典》第一百五十七条...&lt;/span&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=left;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1036" y="4206" width="197.5" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-75" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="862.25" y="4207.12" width="35.75" height="35.75" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-76" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="XGfmZJ_rFbC4bp7J-RZ3-53" target="XGfmZJ_rFbC4bp7J-RZ3-51" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="832" y="3932" as="sourcePoint" />
+            <mxPoint x="882" y="4142" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="862" y="4225.703333333334" as="targetPoint" />
+            <mxPoint x="802" y="4226.37" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="862" y="4234.363333333334" as="targetPoint" />
+            <mxPoint x="802" y="4235.03" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-79" value="" style="shape=cross;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870.1199999999999" y="4215" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-80" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;《中华人民共和国商业银行法》第三十七条...&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;align=left;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1036" y="4250.969999999999" width="196.5" height="42.03" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-81" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.002;entryY=0.844;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" target="XGfmZJ_rFbC4bp7J-RZ3-71" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="809" y="4378" as="sourcePoint" />
+            <mxPoint x="1002" y="4378" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-82" value="向量匹配" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="909.1199999999999" y="4190.030000000001" width="74.25" height="25.12" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-83" value="向量匹配" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="857.75" y="4350.4400000000005" width="74.25" height="25.12" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-84" value="模糊搜索" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="857.75" y="4381" width="74.25" height="25.12" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-85" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=left;fillColor=#efefef;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1023" y="4308" width="226" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-86" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;以转贷牟利为目的，套...&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;align=left;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1036" y="4374" width="200" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-87" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;（一）套取金融机构贷...&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;align=left;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1036" y="4344" width="200" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-88" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="902" y="4220" as="sourcePoint" />
+            <mxPoint x="1005" y="4220.4" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-89" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.484;entryY=0;entryDx=0;entryDy=0;exitX=0.483;exitY=0.986;exitDx=0;exitDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" source="XGfmZJ_rFbC4bp7J-RZ3-53" target="XGfmZJ_rFbC4bp7J-RZ3-55" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="673" y="4072.62" as="sourcePoint" />
+            <mxPoint x="869" y="4071.62" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-90" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="824" y="4017.5" as="sourcePoint" />
+            <mxPoint x="1297.5" y="4295" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1297.5" y="4018" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-91" value="问题转换" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="637.75" y="4465" width="101.75" height="42.12" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-92" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1355" y="4170" width="260" height="247" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-93" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;星火大模型&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1442.37" y="4172.12" width="85.25" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-94" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=left;fillColor=#efefef;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1375" y="4205" width="226" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-95" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;color: rgb(18, 18, 18); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; font-size: 14px; display: inline !important;&quot;&gt;借款人从银行贷款后转贷转贷给第三人的，其借款合同是无效的。这种行为属于套取金融机构贷款转贷，违反了最高人民法院关于审理民间借贷案件适用法律若干问题的规定第十三条的规定；该合同被认定为无效后，借款人及第三人因无效合同取得的财产，应当予以返还，借款人作为有过错的一方应当赔偿银行及第三...&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=left;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1379.62" y="4222" width="218.75" height="163" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-96" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;民事法律行为无效、被...&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;align=left;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1036" y="4314" width="200" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-97" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="XGfmZJ_rFbC4bp7J-RZ3-71" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1269.5" y="4293" as="sourcePoint" />
+            <mxPoint x="1349.5" y="4293" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-98" value="内容检索" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1083.37" y="4465" width="101.75" height="42.12" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-99" value="总结回复" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1442.5" y="4465" width="101.75" height="42.12" as="geometry" />
+        </mxCell>
+        <mxCell id="XGfmZJ_rFbC4bp7J-RZ3-100" value="Prompt构建" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1272.5" y="4300" width="77" height="25.12" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
